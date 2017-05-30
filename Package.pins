@@ -1,0 +1,42 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "CocoaMapper",
+      "reason": null,
+      "repositoryURL": "https://github.com/dreymonde/CocoaMapper.git",
+      "version": "0.2.0"
+    },
+    {
+      "package": "Files",
+      "reason": null,
+      "repositoryURL": "https://github.com/johnsundell/files.git",
+      "version": "1.8.0"
+    },
+    {
+      "package": "Mapper",
+      "reason": null,
+      "repositoryURL": "https://github.com/Zewo/Mapper",
+      "version": "0.14.2"
+    },
+    {
+      "package": "Shallows",
+      "reason": null,
+      "repositoryURL": "https://github.com/dreymonde/Shallows.git",
+      "version": "0.1.5"
+    },
+    {
+      "package": "ShellOut",
+      "reason": null,
+      "repositoryURL": "https://github.com/johnsundell/shellout.git",
+      "version": "1.1.0"
+    },
+    {
+      "package": "Timepiece",
+      "reason": null,
+      "repositoryURL": "https://github.com/naoty/Timepiece.git",
+      "version": "1.2.0"
+    }
+  ],
+  "version": 1
+}
